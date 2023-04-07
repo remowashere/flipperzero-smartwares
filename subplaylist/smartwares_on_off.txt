@@ -1,0 +1,8 @@
+sub: /ext/subghz/Smartwares/SH4-90152/RAW/CH1_ON_RAW.sub
+sub: /ext/subghz/Smartwares/SH4-90152/RAW/CH2_ON_RAW.sub
+sub: /ext/subghz/Smartwares/SH4-90152/RAW/CH3_ON_RAW.sub
+sub: /ext/subghz/Smartwares/SH4-90152/RAW/CH4_ON_RAW.sub
+sub: /ext/subghz/Smartwares/SH4-90152/RAW/CH1_OFF_RAW.sub
+sub: /ext/subghz/Smartwares/SH4-90152/RAW/CH2_OFF_RAW.sub
+sub: /ext/subghz/Smartwares/SH4-90152/RAW/CH3_OFF_RAW.sub
+sub: /ext/subghz/Smartwares/SH4-90152/RAW/CH4_OFF_RAW.sub

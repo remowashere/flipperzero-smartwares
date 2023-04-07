@@ -1,0 +1,8 @@
+UP: /ext/subghz/Smartwares/SH4-90152/CH1_ON.sub
+DOWN: /ext/subghz/Smartwares/SH4-90152/CH2_ON.sub
+LEFT: /ext/subghz/Smartwares/SH4-90152/CH3_ON.sub
+RIGHT: /ext/subghz/Smartwares/SH4-90152/CH4_ON.sub
+ULABEL: CH1 ON
+DLABEL: CH2 ON
+LLABEL: CH3 ON
+RLABEL: CH4 ON
